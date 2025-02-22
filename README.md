@@ -29,6 +29,12 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huynhnguyenvanduy&show_icons=true&theme=dark)
 
+## 📂 My Projects
+
+- [Laptop Shop - User Home](http://laptopshopgroup3.kesug.com/laptopshop/user/home.php?i=1) - The user home page of the e-commerce website.
+- [Laptop Shop - Admin Panel](http://laptopshopgroup3.kesug.com/laptopshop/admin) - Admin dashboard for managing the e-commerce platform.
+
+
 ## 📫 Contact Me
 - ✉️ Email: duyhynh17@gmail.com
 - 🔗 Facebook: [Your Facebook](https://www.facebook.com/duyhynh.sol)
