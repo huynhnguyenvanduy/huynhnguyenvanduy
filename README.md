@@ -3,8 +3,12 @@
 ## 🚀 About Me
 - 💻 Full-Stack Developer
 - 🛠️ Specializing in **PHP, Laravel, Vue.js, MySQL**
-- 🎨 Frontend: HTML, CSS, JavaScript, Bootstrap
-- 🗄️ Database: MySQL (Navicat for management)
+- 🎨 Frontend:  HTML5, CSS3, JavaScript, jQuery, Bootstrap
+- 🗄️ Database: SQL Server, MySQL (Navicat for management)
+- 🔹 Git & Version Control
+- 🔹 Server Setup & SSL Configuration
+- 🔹 Software Testing & Debugging
+- 🔹 Single Page Application Development (SPA)
 
 ## 🔧 Technologies & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
