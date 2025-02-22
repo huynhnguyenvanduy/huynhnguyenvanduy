@@ -13,11 +13,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huynhnguyenvanduy&show_icons=true&theme=dark)
 
 ## 📫 Contact Me
 - ✉️ Email: duyhynh17@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- 🔗 Facebook: [Your Facebook](https://www.facebook.com/duyhynh.sol)
 
 ---
 *🔥 Always learning and building new things!*
