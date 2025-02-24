@@ -32,7 +32,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huynhnguyenvanduy&show_icons=true&theme=dark)
 
 ## 📂 My Projects
-
+- E-Commerce Website - An online shopping platform for electronic devices
 - [Laptop Shop - User Home](http://laptopshopgroup3.kesug.com/laptopshop/user/home.php?i=1) - The user home page of the e-commerce website.
 - [Laptop Shop - Admin Panel](http://laptopshopgroup3.kesug.com/laptopshop/admin) - Admin dashboard for managing the e-commerce platform.
 
