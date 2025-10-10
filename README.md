@@ -1,18 +1,12 @@
 # 👋 Hi, I'm [Duy]!
 
-## 🚀 About Me
-- 💻 Full-Stack Developer
-- 🛠️ Specializing in **PHP, Laravel, Vue.js, MySQL ,  REST API**
-- 🎨 Frontend:  HTML5, CSS3, JavaScript, jQuery, Bootstrap
-- 🗄️ Database: SQL Server, MySQL (Navicat for management)
-- 🔹 Git & Version Control
-- 🔹 Server Setup & SSL Configuration
-- 🔹 Software Testing & Debugging
-- 🔹 Single Page Application Development (SPA)
-
 ## 🔧 Technologies & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Navicat](https://img.shields.io/badge/Navicat-4A8E13?style=for-the-badge&logo=navicat&logoColor=white)
@@ -23,6 +17,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel v0](https://img.shields.io/badge/Vercel_v0-000000?style=for-the-badge&logo=v0&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-0078D4?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-FF4F5A?style=for-the-badge&logo=canva&logoColor=white)
@@ -33,9 +28,7 @@
 
 ## 📂 My Projects
 - [E-Commerce Website](http://web_tmdt.dzfullstack.edu.vn/) - An online shopping platform for electronic devices.  
-- [Laptop Shop - User Home](http://laptopshopgroup3.kesug.com/laptopshop/user/home.php?i=1) - The user home page of the e-commerce website.
-- [Laptop Shop - Admin Panel](http://laptopshopgroup3.kesug.com/laptopshop/admin) - Admin dashboard for managing the e-commerce platform.
-
+- [Allora Ecosystem Website](https://dev.dimori.net/) - Allora Ecosystem.  
 
 ## 📫 Contact Me
 - ✉️ Email: duyhynh17@gmail.com
